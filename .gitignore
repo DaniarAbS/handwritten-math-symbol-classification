@@ -1,0 +1,30 @@
+# Python virtual environment
+Lib/
+Scripts/
+Include/
+share/
+pyvenv.cfg
+
+# PyCharm
+.idea/
+
+# Datasets
+dataset_original/
+dataset/
+data_split/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Trained models
+*.keras
+*.h5
+*.weights.h5
+
+# Other
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
